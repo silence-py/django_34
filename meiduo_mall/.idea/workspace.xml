@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fb41b86-b7d4-4f20-a3db-96d520db385a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/apps/users/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/apps/users/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YfDnW2Sd5Cv5TPn12MaGyyP4KK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/templates" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/static/js" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/static/images" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/static/images/goods" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/static/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/templates" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/libs" />
+      <recent name="$PROJECT_DIR$/celery_tasks/sms" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/settings" />
+      <recent name="$PROJECT_DIR$/meiduo_mall" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.meiduo_mall">
+    <configuration name="crons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall/apps/contents" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/apps/contents/crons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fastdfs_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_mall/utils/fastdfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_mall/utils/fastdfs/fastdfs_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver www.meiduo.site:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regenerate_detail_html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/regenerate_detail_html.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="meiduo_mall" type="Python.DjangoServer" factoryName="Django server">
+      <module name="meiduo_mall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.meiduo_mall" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.fastdfs_test" />
+      <item itemvalue="Python.crons" />
+      <item itemvalue="Python.regenerate_detail_html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.regenerate_detail_html" />
+        <item itemvalue="Python.crons" />
+        <item itemvalue="Python.fastdfs_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb41b86-b7d4-4f20-a3db-96d520db385a" name="Default Changelist" comment="" />
+      <created>1583324921581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583324921581</updated>
+      <workItem from="1583324925683" duration="1650000" />
+      <workItem from="1583468036228" duration="60826000" />
+      <workItem from="1584071552605" duration="298000" />
+      <workItem from="1584073625466" duration="543000" />
+      <workItem from="1584074284484" duration="68577000" />
+      <workItem from="1584773925497" duration="1234000" />
+      <workItem from="1584787515977" duration="187007000" />
+      <workItem from="1585890019112" duration="1181000" />
+      <workItem from="1586170673063" duration="1224000" />
+      <workItem from="1586915999147" duration="121000" />
+      <workItem from="1586921637444" duration="56000" />
+      <workItem from="1587215263027" duration="1874000" />
+    </task>
+    <task id="LOCAL-00092" summary="购物车之未登录用户添加购物车(优化)">
+      <created>1585195256041</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1585195256041</updated>
+    </task>
+    <task id="LOCAL-00093" summary="购物车之登录用户添加购物车">
+      <created>1585204305337</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1585204305338</updated>
+    </task>
+    <task id="LOCAL-00094" summary="购物车渲染之登录用户数据格式转换">
+      <created>1585219451643</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1585219451643</updated>
+    </task>
+    <task id="LOCAL-00095" summary="购物车页面渲染">
+      <created>1585221446285</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1585221446285</updated>
+    </task>
+    <task id="LOCAL-00096" summary="购物车操作之修改">
+      <created>1585224588542</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1585224588542</updated>
+    </task>
+    <task id="LOCAL-00097" summary="购物车操作之删除">
+      <created>1585280544868</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1585280544868</updated>
+    </task>
+    <task id="LOCAL-00098" summary="购物车全选之登录用户">
+      <created>1585281495501</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1585281495501</updated>
+    </task>
+    <task id="LOCAL-00099" summary="购物车全选之未登录用户">
+      <created>1585282429298</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1585282429298</updated>
+    </task>
+    <task id="LOCAL-00100" summary="购物车简单版完成">
+      <created>1585292203979</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1585292203979</updated>
+    </task>
+    <task id="LOCAL-00101" summary="购物车合并功能">
+      <created>1585305556108</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1585305556108</updated>
+    </task>
+    <task id="LOCAL-00102" summary="订单结算页面视图路由定义">
+      <created>1585306239280</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1585306239281</updated>
+    </task>
+    <task id="LOCAL-00103" summary="订单结算页面渲染完成">
+      <created>1585309974229</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1585309974229</updated>
+    </task>
+    <task id="LOCAL-00104" summary="订单模型迁移建表及提交订单视图路由定义">
+      <created>1585310521994</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1585310521998</updated>
+    </task>
+    <task id="LOCAL-00105" summary="新增订单信息记录">
+      <created>1585453593107</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1585453593107</updated>
+    </task>
+    <task id="LOCAL-00106" summary="SKU和SPU销量库存修改">
+      <created>1585454534498</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1585454534499</updated>
+    </task>
+    <task id="LOCAL-00107" summary="订单商品表更新及购物车清空">
+      <created>1585463565052</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1585463565052</updated>
+    </task>
+    <task id="LOCAL-00108" summary="使用事务绑定订单新增修改操作">
+      <created>1585464436208</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1585464436208</updated>
+    </task>
+    <task id="LOCAL-00109" summary="使用乐观锁解决并发下单问题">
+      <created>1585478806366</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1585478806366</updated>
+    </task>
+    <task id="LOCAL-00110" summary="订单提交成功页面渲染">
+      <created>1585480321682</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1585480321682</updated>
+    </task>
+    <task id="LOCAL-00111" summary="订单支付应用创建">
+      <created>1585483330799</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1585483330799</updated>
+    </task>
+    <task id="LOCAL-00112" summary="响应支付宝登录链接">
+      <created>1585541655013</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1585541655013</updated>
+    </task>
+    <task id="LOCAL-00113" summary="完成支付宝支付并渲染购买成功页面">
+      <created>1585550187014</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1585550187014</updated>
+    </task>
+    <task id="LOCAL-00114" summary="静态渲染准备">
+      <created>1585551662723</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1585551662723</updated>
+    </task>
+    <task id="LOCAL-00115" summary="定时器静态化首页展示页面">
+      <created>1585566847283</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1585566847283</updated>
+    </task>
+    <task id="LOCAL-00116" summary="商品详情页静态化">
+      <created>1585568204074</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1585568204074</updated>
+    </task>
+    <task id="LOCAL-00117" summary="新浪微博回调地址处理">
+      <created>1585626887928</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1585626887928</updated>
+    </task>
+    <task id="LOCAL-00118" summary="微博登录绑定用户">
+      <created>1585635724218</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1585635724218</updated>
+    </task>
+    <task id="LOCAL-00119" summary="微博登录UID加密和用户找回密码页面渲染">
+      <created>1585638827865</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1585638827865</updated>
+    </task>
+    <task id="LOCAL-00120" summary="我的订单页面渲染">
+      <created>1585643377645</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1585643377645</updated>
+    </task>
+    <task id="LOCAL-00121" summary="我的订单页面页码展示">
+      <created>1585644150943</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1585644150943</updated>
+    </task>
+    <task id="LOCAL-00122" summary="我的订单页面展示完成">
+      <created>1585648752920</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1585648752920</updated>
+    </task>
+    <task id="LOCAL-00123" summary="我的订单页面展示完成(补充)">
+      <created>1585649236720</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1585649236720</updated>
+    </task>
+    <task id="LOCAL-00124" summary="订单评价之校验数据">
+      <created>1585655631089</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1585655631089</updated>
+    </task>
+    <task id="LOCAL-00125" summary="订单评价之修改订单商品评价信息和订单状态">
+      <created>1585704286559</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1585704286559</updated>
+    </task>
+    <task id="LOCAL-00126" summary="订单评价展示">
+      <created>1585708475033</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1585708475033</updated>
+    </task>
+    <task id="LOCAL-00127" summary="订单评价展示(补充)">
+      <created>1585709274626</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1585709274626</updated>
+    </task>
+    <task id="LOCAL-00128" summary="浏览历史商品链接跳转">
+      <created>1585709552532</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1585709552532</updated>
+    </task>
+    <task id="LOCAL-00129" summary="找回密码之校验用户及图片验证码">
+      <created>1585740814554</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1585740814554</updated>
+    </task>
+    <task id="LOCAL-00130" summary="找回密码之校验用户及图片验证码(token)">
+      <created>1585741090956</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1585741090956</updated>
+    </task>
+    <task id="LOCAL-00131" summary="找回密码---判断图片验证码是否过期">
+      <created>1585741497847</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1585741497847</updated>
+    </task>
+    <task id="LOCAL-00132" summary="订单展示---静态化模板修改">
+      <created>1585791671136</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1585791671136</updated>
+    </task>
+    <task id="LOCAL-00133" summary="找回密码---发送短信验证码">
+      <created>1585795015868</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1585795015868</updated>
+    </task>
+    <task id="LOCAL-00134" summary="找回密码---校验短信验证码">
+      <created>1585798107365</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1585798107365</updated>
+    </task>
+    <task id="LOCAL-00135" summary="找回密码---设置新密码">
+      <created>1585801319420</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1585801319420</updated>
+    </task>
+    <task id="LOCAL-00136" summary="找回密码---常量替换">
+      <created>1585803571556</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803571556</updated>
+    </task>
+    <task id="LOCAL-00137" summary="微博登录---open_id(加密和解密)">
+      <created>1585804813794</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804813794</updated>
+    </task>
+    <task id="LOCAL-00138" summary="用户登录页面优化">
+      <created>1585811322315</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1585811322315</updated>
+    </task>
+    <task id="LOCAL-00139" summary="用户登录页面优化">
+      <created>1585814913578</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1585814913578</updated>
+    </task>
+    <task id="LOCAL-00140" summary="找回密码(优化)">
+      <created>1585824309064</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1585824309064</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="定时器静态化首页展示页面" />
+    <MESSAGE value="商品详情页静态化" />
+    <MESSAGE value="新浪微博回调地址处理" />
+    <MESSAGE value="微博登录绑定用户" />
+    <MESSAGE value="微博登录UID加密和用户找回密码页面渲染" />
+    <MESSAGE value="我的订单页面渲染" />
+    <MESSAGE value="我的订单页面页码展示" />
+    <MESSAGE value="我的订单页面展示完成" />
+    <MESSAGE value="我的订单页面展示完成(补充)" />
+    <MESSAGE value="订单评价之校验数据" />
+    <MESSAGE value="订单评价之修改订单商品评价信息和订单状态" />
+    <MESSAGE value="订单评价展示" />
+    <MESSAGE value="订单评价展示(补充)" />
+    <MESSAGE value="浏览历史商品链接跳转" />
+    <MESSAGE value="找回密码之校验用户及图片验证码" />
+    <MESSAGE value="找回密码之校验用户及图片验证码(token)" />
+    <MESSAGE value="找回密码---判断图片验证码是否过期" />
+    <MESSAGE value="订单展示---静态化模板修改" />
+    <MESSAGE value="找回密码---发送短信验证码" />
+    <MESSAGE value="找回密码---校验短信验证码" />
+    <MESSAGE value="找回密码---设置新密码" />
+    <MESSAGE value="找回密码---常量替换" />
+    <MESSAGE value="微博登录---open_id(加密和解密)" />
+    <MESSAGE value="用户登录页面优化" />
+    <MESSAGE value="找回密码(优化)" />
+    <option name="LAST_COMMIT_MESSAGE" value="找回密码(优化)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="600" y="100" width="900" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586168202834">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="600" y="100" width="900" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1851.861@67.27.1851.861" timestamp="1586168202834" />
+    <state x="678" y="253" width="715" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585482330766">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="678" y="253" width="715" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1851.861@67.27.1851.861" timestamp="1585482330766" />
+    <state x="823" y="173" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585634297911">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="823" y="173" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1851.861@67.27.1851.861" timestamp="1585634297911" />
+    <state x="423" y="361" width="1340" height="527" key="#xdebugger.evaluate" timestamp="1585804363382">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="423" y="361" width="1340" height="527" key="#xdebugger.evaluate/67.27.1851.861@67.27.1851.861" timestamp="1585804363382" />
+    <state x="846" y="27" width="927" height="861" key="CommitChangelistDialog2" timestamp="1585824308923">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="846" y="27" width="927" height="861" key="CommitChangelistDialog2/67.27.1851.861@67.27.1851.861" timestamp="1585824308923" />
+    <state x="167" y="125" width="1651" height="663" key="DiffContextDialog" timestamp="1584323271210">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="167" y="125" width="1651" height="663" key="DiffContextDialog/67.27.1851.861@67.27.1851.861" timestamp="1584323271210" />
+    <state x="737" y="170" width="515" height="536" key="EnvironmentVariablesDialog" timestamp="1586168201815">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="737" y="170" width="515" height="536" key="EnvironmentVariablesDialog/67.27.1851.861@67.27.1851.861" timestamp="1586168201815" />
+    <state x="764" y="214" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585880613218">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="764" y="214" width="424" height="484" key="FileChooserDialogImpl/67.27.1851.861@67.27.1851.861" timestamp="1585880613218" />
+    <state x="814" y="351" key="GitRewordDialog" timestamp="1585289444200">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="814" y="351" key="GitRewordDialog/67.27.1851.861@67.27.1851.861" timestamp="1585289444200" />
+    <state width="1799" height="228" key="GridCell.Tab.0.bottom" timestamp="1587268593366">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="228" key="GridCell.Tab.0.bottom/67.27.1851.861@67.27.1851.861" timestamp="1587268593366" />
+    <state width="1799" height="228" key="GridCell.Tab.0.center" timestamp="1587268593366">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="228" key="GridCell.Tab.0.center/67.27.1851.861@67.27.1851.861" timestamp="1587268593366" />
+    <state width="1799" height="228" key="GridCell.Tab.0.left" timestamp="1587268593365">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="228" key="GridCell.Tab.0.left/67.27.1851.861@67.27.1851.861" timestamp="1587268593365" />
+    <state width="1799" height="228" key="GridCell.Tab.0.right" timestamp="1587268593366">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="228" key="GridCell.Tab.0.right/67.27.1851.861@67.27.1851.861" timestamp="1587268593366" />
+    <state width="1799" height="252" key="GridCell.Tab.1.bottom" timestamp="1585889138603">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="252" key="GridCell.Tab.1.bottom/67.27.1851.861@67.27.1851.861" timestamp="1585889138603" />
+    <state width="1799" height="252" key="GridCell.Tab.1.center" timestamp="1585889138603">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="252" key="GridCell.Tab.1.center/67.27.1851.861@67.27.1851.861" timestamp="1585889138603" />
+    <state width="1799" height="252" key="GridCell.Tab.1.left" timestamp="1585889138603">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="252" key="GridCell.Tab.1.left/67.27.1851.861@67.27.1851.861" timestamp="1585889138603" />
+    <state width="1799" height="252" key="GridCell.Tab.1.right" timestamp="1585889138603">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state width="1799" height="252" key="GridCell.Tab.1.right/67.27.1851.861@67.27.1851.861" timestamp="1585889138603" />
+    <state x="403" y="28" key="SettingsEditor" timestamp="1584871578404">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="403" y="28" key="SettingsEditor/67.27.1851.861@67.27.1851.861" timestamp="1584871578404" />
+    <state x="587" y="191" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1585825057555">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="587" y="191" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1851.861@67.27.1851.861" timestamp="1585825057555" />
+    <state x="834" y="328" width="393" height="262" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584848357541">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="834" y="328" width="393" height="262" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/67.27.1851.861@67.27.1851.861" timestamp="1584848357541" />
+    <state x="637" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1584787516542">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="637" y="284" key="com.intellij.ide.util.TipDialog/67.27.1851.861@67.27.1851.861" timestamp="1584787516542" />
+    <state x="523" y="144" width="929" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585628865053">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="523" y="144" width="929" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1851.861@67.27.1851.861" timestamp="1585628865053" />
+    <state x="600" y="237" width="774" height="439" key="git4idea.merge.GitPullDialog" timestamp="1585635731264">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="600" y="237" width="774" height="439" key="git4idea.merge.GitPullDialog/67.27.1851.861@67.27.1851.861" timestamp="1585635731264" />
+    <state x="653" y="199" width="680" height="688" key="search.everywhere.popup" timestamp="1585823575092">
+      <screen x="67" y="27" width="1851" height="861" />
+    </state>
+    <state x="653" y="199" width="680" height="688" key="search.everywhere.popup/67.27.1851.861@67.27.1851.861" timestamp="1585823575092" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/meiduo_mall/apps/sina/views.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/meiduo_mall/apps/sina/views.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/meiduo_mall$views.coverage" NAME="views Coverage Results" MODIFIED="1585551138530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/apps/contents" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$fastdfs_test.coverage" NAME="fastdfs_test Coverage Results" MODIFIED="1584788262447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/utils/fastdfs" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$crons.coverage" NAME="crons Coverage Results" MODIFIED="1585551330612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/apps/contents" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$models.coverage" NAME="models Coverage Results" MODIFIED="1584502911908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/apps/areas" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$2020323.coverage" NAME="2020323 Coverage Results" MODIFIED="1584944624904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/apps/goods" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$manage.coverage" NAME="manage Coverage Results" MODIFIED="1585883227575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meiduo_mall$regenerate_detail_html.coverage" NAME="regenerate_detail_html Coverage Results" MODIFIED="1585791772996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+  </component>
+</project>

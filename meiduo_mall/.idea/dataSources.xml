@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="meiduo_shopping@localhost" uuid="653b45f8-bae8-456f-b7bc-0383030f682c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/meiduo_shopping</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="django_34_test@localhost" uuid="01ed6fad-8460-40c7-a1c8-fb123947aec9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/django_34_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
